@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashFragment"
+    android:background="@drawable/background_main"
+    android:orientation="vertical">
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:paddingTop="150dp"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/spin_kit1"
+        style="@style/SpinKitView.Wave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:SpinKit_Color="@color/fiol" />
+
+    <TextView
+        android:paddingTop="5dp"
+        android:id="@+id/loading"
+        android:textColor="#FFF"
+        android:text="Loading"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/lol"/>
+
+
+
+</LinearLayout>

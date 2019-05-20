@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battle Pass</string>
+    <string name="show_ad_counter_settings_key">0</string>
+    <string name="feedback">Battle Pass</string>
+    <string name="install_this_application">"Battle Pass Helper - https://play.google.com/store/apps/details?id=com.battleroyale.battlepass</string>
+    <string name="rate_app">"https://play.google.com/store/apps/details?id=com.battleroyale.battlepass</string>
+
+    <string name="updated" translatable="false">Successfully updated!</string>
+
+    <string name="Week">Week</string>
+    <string name="Availlable" >zal beschikbaar zijn op</string>
+    <string name="internet_error">Fout in internetverbinding :(</string>
+    <string name="close_rating_dialog">Sluiten ✖</string>
+    <string name="open_rating_dialog">Beoordeel het ★</string>
+    <string name="share">Deel link:</string>
+    <string name="rate_dialog_title">Beoordeel het</string>
+    <string name="ratind_dialog_content">Vind je de app leuk?\nU kunt ons helpen en de app evalueren</string>
+
+</resources>

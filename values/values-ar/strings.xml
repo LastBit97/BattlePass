@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Pass Helper</string>
+
+    <string name="Week">أسبوع</string>
+
+    <string name="ask1">لا أستطيع فتح أسابيع معينة ، لماذا؟</string>
+    <string name="ask1_1">بمجرد أن يتم إضافة نصائح أسبوعية ، سيكون لديك الوصول إليها وتلقي إشعار عن ذلك.</string>
+
+    <string name="ask2">لا أفهم كيف تعمل البقشيش</string>
+    <string name="ask2_1">في الصورة الأولى ، لديك قائمة من التحديات للأسبوع المحدد ، بالقرب منها سوف تجد علامات ، والتي تعرض على الخريطة. كل علامة تشبه التحدي حتى لو كانت قائمة التحدي غير متاحة للغة التي تختارها ، يمكنك استخدام العلامات لتحديد بصريا أين توجد التحديات. التحديات معروضة هي نفس الترتيب لكل شخص.</string>
+
+    <string name="ask3">عندما أختار أسبوع معين ، أستطيع فقط أن أرى خلفية فارغة بدلا من الصور.</string>
+    <string name="ask3_1">يتم تحميل الصور عبر الإنترنت. كش a ثابت اتصال if اتصال هو itإيطالياهو بعض وقت لـ إلى التحميل.</string>
+
+    <string name="ask4">كيف أجعل الصورة أكبر؟</string>
+    <string name="ask4_1">نقر مزدوج يعمل صورة إلى الإيطالية أو استخدام قرصة إلى تكبير بوصة ترتيب إلى زيادة أو خفض حجم.</string>
+
+    <string name="ask5"> كم من الوقت يستغرق ظهور النصائح في التطبيق بعد نشر التحديات في اللعبة؟</string>
+    <string name="ask5_1">في غضون ساعة واحدة بعد أن أضافوا في اللعبة.</string>
+
+    <string name="ask6">لا أستطيع العثور على نجمة أو لافتة سرية باستخدام النصائح الخاصة بك.</string>
+    <string name="ask6_1">النجوم / اللافتات السرية تصبح متاحة فقط عندما تكمل كل تحديات المعارك الأسبوعية</string>
+
+    <string name="ask7">أريد أن أكمل التحديات كيف أحصل على ترخيص معركة ؟</string>
+    <string name="ask7_1">من أجل الحصول على ترخيص المعركة ، سوف تحتاج إلى شرائها في اللعبة أو شرائها من الموقع الرسمي.</string>
+
+    <string name="ask8">هل سيكون هناك نصائح للموسم القادم؟</string>
+    <string name="ask8_1">نعم ، حالما ينتهي الموسم الحالي ، النصائح للموسم القادم ستكون متاحة في التطبيق.</string>
+
+    <string name="week_locked">هذا الأسبوع مغلق وسيفتح</string>
+    <string name="internet_error">خطأ في الاتصال بالإنترنت :(</string>
+    <string name="close_rating_dialog"> إغلاق✖</string>
+    <string name="open_rating_dialog">قيمه★</string>
+    <string name="share">وصلة مشاركة:</string>
+    <string name="rate_dialog_title">قيمه</string>
+    <string name="ratind_dialog_content">  مثل التطبيق؟\nيمكنك مساعدتنا وتقييم التطبيق</string>
+    <string name="updated">تم تحديثها بنجاح!</string>
+</resources>

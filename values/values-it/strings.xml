@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Pass Helper</string>
+
+    <string name="Week">Settimana</string>
+
+    <string name="ask1">Non posso aprire certe settimane, perché?</string>
+    <string name="ask1_1">Non appena verranno aggiunti i suggerimenti settimanali, potrai accedervi e ricevere una notifica al riguardo.</string>
+
+    <string name="ask2">Non capisco come funzionano i consigli.</string>
+    <string name="ask2_1">Nella prima immagine, hai una lista di sfide per la settimana selezionata, vicino a essa troverai segni, che vengono visualizzati sulla mappa. Ogni marchio ricorda una sfida. Anche se l"'"elenco delle sfide non è disponibile per la lingua scelta, è possibile utilizzare i marchi per identificare visivamente dove si trovano le sfide. Le sfide sono visualizzate è lo stesso ordine per tutti.</string>
+
+    <string name="ask3">Quando seleziono una determinata settimana, posso vedere solo uno sfondo vuoto al posto delle immagini.</string>
+    <string name="ask3_1">Le immagini sono scaricate tramite internet. Controlla se hai una connessione stabile, se la tua connessione è debole, può richiedere del tempo per caricare le immagini.</string>
+
+    <string name="ask4">Come posso ingrandire l"'"immagine?</string>
+    <string name="ask4_1">Tocca due volte sull"'"immagine che vuoi ingrandire o usa il pizzico per ingrandire per aumentare o diminuire la dimensione.</string>
+
+    <string name="ask5">Quanto tempo ci vuole perché i suggerimenti appaiano nell"'"app dopo che le sfide sono state pubblicate nel gioco?</string>
+    <string name="ask5_1">Entro 1 ora dopo che hanno aggiunto nel gioco.</string>
+
+    <string name="ask6">Non riesco a trovare una stella o un banner segreti usando i tuoi consigli.</string>
+    <string name="ask6_1">Stelle / stendardi segreti diventano disponibili solo quando completi tutte le sfide settimanali</string>
+
+    <string name="ask7">Voglio completare le sfide. Come ottengo un passaggio di battaglia?</string>
+    <string name="ask7_1">Per ottenere un passaggio di battaglia, è necessario acquistarlo nel gioco o acquistarlo dal sito web ufficiale.</string>
+
+    <string name="ask8">Ci saranno suggerimenti per la prossima stagione?</string>
+    <string name="ask8_1">Sì, non appena terminerà la stagione in corso, i consigli per la prossima stagione saranno disponibili nell"'"app.</string>
+
+    <string name="week_locked">Questa settimana è bloccata e si aprirà</string>
+    <string name="internet_error">Errore di connessione a Internet :(</string>
+    <string name="close_rating_dialog">Chiudi ✖</string>
+    <string name="open_rating_dialog">Valutalo ★</string>
+    <string name="share">Condividi il link:</string>
+    <string name="rate_dialog_title">Valutalo</string>
+    <string name="ratind_dialog_content">Ti piace l"'"app? \ NPuoi aiutarci e valutare l"'"app</string>
+    <string name="updated">Aggiornato con successo!</string>
+</resources>

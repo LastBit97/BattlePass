@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="show_ad_counter_settings_key" >0</string>
+    <string name="app_name">Battle Pass Helper</string>
+    <string name="install_this_application">"Battle Pass Helper - https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="rate_app" >"https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="helptitled" >FAQ</string>
+    <string name="feedback" >Battle Pass Helper</string>
+
+    <string name="Week">Week</string>
+
+    <string name="ask1">I can’t open certain weeks, why?</string>
+    <string name="ask1_1">As soon as weekly tips will be added, you will have access to them and receive a notification about it.</string>
+
+    <string name="ask2">I don’t understand how tips work.</string>
+    <string name="ask2_1">On the first image, you have a list of challenges for the selected week, near it you will find marks, which are displayed on the map. Each mark resembles a challenge. Even if the challenge list is not available for the language you choose, you can use marks to visually identify where challenges are. Challenges are displayed is the same order for everyone.</string>
+
+    <string name="ask3">When I select a certain week, I can only see an empty background instead of images.</string>
+    <string name="ask3_1">Images are downloaded via the internet. Check whether you have a stable connection, if your connection is weak it can take some time in order for images to load.</string>
+
+    <string name="ask4">How do I make the image bigger?</string>
+    <string name="ask4_1">Double tap on the image you want to make it bigger or use pinch to zoom in order to increase or decrease the size.</string>
+
+    <string name="ask5">How long does it take for tips to appear in the app after challenges are published in the game?</string>
+    <string name="ask5_1">Within 1 hour after they added in the game.</string>
+
+    <string name="ask6">I can’t find a secret star or banner using your tips</string>
+    <string name="ask6_1">Secret stars / banners become available only when you complete all weekly battle pass challenges</string>
+
+    <string name="ask7">I want to complete the challenges. How do I get a battle pass?</string>
+    <string name="ask7_1">In order to get a battle pass, you will need to purchase it in the game or buy it from the official website.</string>
+
+    <string name="ask8">Are there going to be tips for the next season?</string>
+    <string name="ask8_1">Yes, as soon as the current season ends, tips for next season will be available in the app.</string>
+
+    <string name="week_locked">This week is locked and will open</string>
+    <string name="internet_error">Internet connection error :(</string>
+    <string name="close_rating_dialog">Close ✖</string>
+    <string name="open_rating_dialog">Rate it ★</string>
+    <string name="share">Share link:</string>
+    <string name="rate_dialog_title">Rate it</string>
+    <string name="ratind_dialog_content">Like the app?\nYou can help us and evaluate the app</string>
+    <string name="updated">Successfully updated!</string>
+
+</resources>

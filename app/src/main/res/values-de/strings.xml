@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_ad_counter_settings_key" >0</string>
+    <string name="app_name">Battle Pass Helper</string>
+    <string name="install_this_application">"Battle Pass Helper - https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="rate_app" >"https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="helptitled" >FAQ</string>
+    <string name="feedback" >Battle Pass Helper</string>
+
+    <string name="Week">Woche</string>
+
+    <string name="ask1">Ich kann bestimmte Wochen nicht öffnen, warum?</string>
+    <string name="ask1_1">Sobald wöchentliche Tipps hinzugefügt werden, haben Sie Zugriff auf diese und erhalten eine Benachrichtigung darüber.</string>
+
+    <string name="ask2">Ich verstehe nicht, wie Tipps funktionieren.</string>
+    <string name="ask2_1">Auf dem ersten Bild haben Sie eine Liste der Herausforderungen für die ausgewählte Woche. In der Nähe finden Sie Markierungen, die auf der Karte angezeigt werden. Jede Marke ähnelt einer Herausforderung. Auch wenn die Herausforderungsliste für die von Ihnen gewählte Sprache nicht verfügbar ist, können Sie Marken verwenden, um visuell zu erkennen, wo sich Herausforderungen befinden. Herausforderungen werden in der gleichen Reihenfolge angezeigt.</string>
+
+    <string name="ask3">Wenn ich eine bestimmte Woche wähle, sehe ich nur einen leeren Hintergrund anstelle von Bildern.</string>
+    <string name="ask3_1">Bilder werden über das Internet heruntergeladen. Prüfen Sie, ob Sie über eine stabile Verbindung verfügen. Wenn Ihre Verbindung schwach ist, kann es einige Zeit dauern, bis Bilder geladen werden.</string>
+
+    <string name="ask4">Wie vergrößere ich das Bild?</string>
+    <string name="ask4_1">Tippen Sie doppelt auf das Bild, das Sie vergrößern möchten, oder vergrößern Sie die Größe mit einer Prise Zoom.</string>
+
+    <string name="ask5">Wie lange dauert es, bis Tipps nach der Veröffentlichung von Herausforderungen im Spiel in der App angezeigt werden?</string>
+    <string name="ask5_1">Innerhalb von 1 Stunde nach dem Hinzufügen.</string>
+
+    <string name="ask6">Ich kann mit Ihren Tipps keinen geheimen Stern oder Banner finden.</string>
+    <string name="ask6_1">Geheime Sterne / Banner werden nur verfügbar, wenn Sie alle wöchentlichen Battle Pass-Herausforderungen abgeschlossen haben</string>
+
+    <string name="ask7">Ich möchte die Herausforderungen beenden. Wie bekomme ich einen Battle Pass?</string>
+    <string name="ask7_1">Um einen Battle Pass zu erhalten, müssen Sie ihn im Spiel kaufen oder von der offiziellen Website kaufen.</string>
+
+    <string name="ask8">Gibt es Tipps für die nächste Saison?</string>
+    <string name="ask8_1">Ja, sobald die aktuelle Saison endet, werden in der App Tipps für die nächste Saison angezeigt.</string>
+
+    <string name="week_locked">Diese Woche ist gesperrt und wird geöffnet</string>
+    <string name="internet_error">Fehler bei der Internetverbindung :(</string>
+    <string name="close_rating_dialog">Schließen Sie ✖</string>
+    <string name="open_rating_dialog">Bewerten Sie es ★</string>
+    <string name="share">Einen Link teilen:</string>
+    <string name="rate_dialog_title">Bewerte es</string>
+    <string name="ratind_dialog_content">Wie die App?\nSie können uns helfen und die App bewerten</string>
+    <string name="updated">Erfolgreich aktualisiert!</string>
+
+</resources>

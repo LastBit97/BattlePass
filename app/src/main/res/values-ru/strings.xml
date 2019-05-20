@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_ad_counter_settings_key" >0</string>
+    <string name="app_name">Battle Pass Helper</string>
+    <string name="install_this_application">"Battle Pass Helper - https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="rate_app" >"https://play.google.com/store/apps/details?id=com.lastbit.battlepass</string>
+    <string name="helptitled" >FAQ</string>
+    <string name="feedback" >Battle Pass Helper</string>
+
+    <string name="Week">Неделя</string>
+
+    <string name="ask1">Я не могу открыть некоторые недели, почему?</string>
+    <string name="ask1_1">Как только в приложение будут добавлены подсказки по выполнению недели, она будет открыта и вы получите уведомление об этом на свой смартфон. (Вы можете увидеть сколько осталось до открытие недели по таймеру)</string>
+
+    <string name="ask2">Я не понимаю, как работают подсказки.</string>
+    <string name="ask2_1">На первом изображении добавлен список заданий для выбранной недели, рядом с ними метки которые используются на карте подсказок. Каждая метка соответствует заданию напротив которого она стоит. Даже если список заданий указан не на вашем языке, вы сможете сориентироваться по метке, ведь порядок заданий одинаково показывается для всех.</string>
+
+    <string name="ask3">Нажимаю на неделю, но вместо изображений с подсказками только фон.</string>
+    <string name="ask3_1">Изображения загружаются через интернет. Проверьте подключение к сети, если сигнал сети слабый, то может понадобиться некоторое время, чтобы изображения прогрузились.</string>
+
+    <string name="ask4">Как увеличить изображение?</string>
+    <string name="ask4_1">Используйте дабл клик на изображение которое вы хотите увеличить, так же вы можете увеличить/уменьшить изображение с помощью нескольких пальцев.</string>
+
+    <string name="ask5">Через какое время добавляются подсказки после их публикации в игре?</string>
+    <string name="ask5_1">В тот же день в течении часа.</string>
+
+    <string name="ask6">Я не могу найти в игре секретную звезду/баннер по вашей подсказке</string>
+    <string name="ask6_1">Секретная звезда/баннер открывается в игре после прохождения всех испытания недели боевого пропуска.</string>
+
+    <string name="ask7">Как мне получить боевой пропуск чтобы выполнять задания?</string>
+    <string name="ask7_1">Чтобы получить боевой пропуск, вам нужно приобрести его в игре или на официальном сайте игры.</string>
+
+    <string name="ask8">Будут ли подсказки для следующего сезона?</string>
+    <string name="ask8_1">Да, как только закончится текущий сезон, в приложение будут доступны подсказки для следующего.</string>
+
+    <string name="week_locked">This week is locked and will open</string>
+    <string name="internet_error">Ошибка Интернет-соединения :(</string>
+    <string name="close_rating_dialog">Закрыть ✖</string>
+    <string name="open_rating_dialog">Оцените это ★</string>
+    <string name="share">Поделиться ссылкой:</string>
+    <string name="rate_dialog_title">Оцените это</string>
+    <string name="ratind_dialog_content">Понравилось приложение?\nВы можете помочь нам и оценить приложение</string>
+    <string name="updated">Успешно обновлено!</string>
+</resources>

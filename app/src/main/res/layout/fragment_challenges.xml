@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="0dp" />
+
+
+    <LinearLayout
+        android:id="@+id/help_bar"
+        android:visibility="gone"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:paddingLeft="50dp"
+            android:id="@+id/share"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_share_black_24dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="35dp" />
+        <ImageView
+            android:id="@+id/help"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_help_black_24dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="35dp" />
+        <ImageView
+            android:paddingRight="50dp"
+            android:id="@+id/rate"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_stars_black_24dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="35dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

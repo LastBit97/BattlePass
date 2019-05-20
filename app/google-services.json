@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "35438669532",
+    "firebase_url": "https://battlepass-b5f06.firebaseio.com",
+    "project_id": "battlepass-b5f06",
+    "storage_bucket": "battlepass-b5f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35438669532:android:55f8b6a5fc7f0108",
+        "android_client_info": {
+          "package_name": "com.lastbit.battlepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35438669532-ludvo8fihvb170ihfmugfoo5qfholrd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastbit.battlepass",
+            "certificate_hash": "d466b4d04b6ba46707fa84970e163b8a99064a44"
+          }
+        },
+        {
+          "client_id": "35438669532-2uu3vp6pg4oei6avouq75gb6judnu8fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkmesPRplLW1OURWE9CWl0D_ECW648mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35438669532-2uu3vp6pg4oei6avouq75gb6judnu8fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

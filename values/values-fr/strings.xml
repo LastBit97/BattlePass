@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Pass Helper</string>
+
+    <string name="Week">La semaine</string>
+
+    <string name="ask1">Je ne peux pas ouvrir certaines semaines, pourquoi?</string>
+    <string name="ask1_1">Dès que des conseils hebdomadaires seront ajoutés, vous y aurez accès et recevrez une notification à ce sujet.</string>
+
+    <string name="ask2">Je ne comprends pas comment fonctionnent les pourboires.</string>
+    <string name="ask2_1">Sur la première image, vous avez une liste de défis pour la semaine sélectionnée. Près de celle-ci, vous trouverez des repères, qui sont affichés sur la carte. Chaque marque ressemble à un défi. Même si la liste de défis n"'"est pas disponible pour la langue que vous choisissez, vous pouvez utiliser des repères pour identifier visuellement où sont les défis. Les défis sont affichés est le même ordre pour tout le monde.</string>
+
+    <string name="ask3">Lorsque je sélectionne une semaine donnée, je ne vois qu"'"un fond vide à la place des images.</string>
+    <string name="ask3_1">Les images sont téléchargées via Internet. Vérifiez si votre connexion est stable. Si votre connexion est faible, le chargement des images peut prendre un certain temps.</string>
+
+    <string name="ask4">Comment puis-je agrandir l"'"image?</string>
+    <string name="ask4_1">Tapez deux fois sur l"'"image que vous souhaitez agrandir ou utilisez le pincement pour zoomer afin d"'"augmenter ou de réduire la taille.</string>
+
+    <string name="ask5">Combien de temps faut-il pour que des conseils apparaissent dans l"'"application après la publication des défis dans le jeu?</string>
+    <string name="ask5_1">Dans l"'"heure qui suit leur ajout au jeu.</string>
+
+    <string name="ask6">Je ne trouve pas d’étoile ou de bannière secrète avec vos conseils.</string>
+    <string name="ask6_1">Les étoiles / bannières secrètes ne sont disponibles que lorsque vous avez terminé tous les défis hebdomadaires de passes au combat</string>
+
+    <string name="ask7">Je veux compléter les défis. Comment puis-je obtenir une passe de combat?</string>
+    <string name="ask7_1">Pour obtenir une passe de combat, vous devrez l"'"acheter dans le jeu ou l"'"acheter sur le site officiel.</string>
+
+    <string name="ask8">Y aura-t-il des conseils pour la prochaine saison?</string>
+    <string name="ask8_1">Oui, dès que la saison en cours se termine, des astuces pour la saison prochaine seront disponibles dans l"'"application.</string>
+
+    <string name="week_locked">Cette semaine est verrouillée et s"'"ouvrira</string>
+    <string name="internet_error">Erreur de connexion Internet :(</string>
+    <string name="close_rating_dialog">Fermer ✖</string>
+    <string name="open_rating_dialog">Notez le ★</string>
+    <string name="share">Lien de partage:</string>
+    <string name="rate_dialog_title">Notez le</string>
+    <string name="ratind_dialog_content">Vous aimez l"'"application? \ NVous pouvez nous aider et évaluer l"'"application</string>
+    <string name="updated">Mise à jour réussie!</string>
+</resources>
